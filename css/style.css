@@ -98,3 +98,14 @@ form input {
   position: relative;
   z-index: 2;
 }
+
+.btn-1 {
+  border: 0;
+  outline: 0;
+  padding: 10px 30px;
+  border-radius: 7px;
+  font-size: 15px;
+  box-shadow: 0 12px 70px rgba(0, 0, 0, 0.85), 0 0 10px rgba(0, 0, 0, 0.5); /* big dramatic shadow */
+  margin: 100px auto 50px;
+  display: none;
+}
